@@ -1,17 +1,10 @@
 ### Hi there 👋
-2
 ### 🌱 I’m currently learning Docker
-3
 ### 🔭 I’m currently working in Sylius
-4
 ### 📫 How to reach me: arti0090@gmail.com
-5
-​
-6
+
 ![](https://komarev.com/ghpvc/?username=arti0090&color=green)
-7
-​
-8
+
 <!--
 9
 **arti0090/arti0090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
