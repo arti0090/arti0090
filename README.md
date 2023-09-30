@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Docker
-### 🔭 I’m currently working in Sylius
+### 🌱 I’m currently learning Rust, Python and refreshing knowledge of Java 😉
+### 🔭 I’m currently looking for new opportunities
 ### 📫 How to reach me: arti0090@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=arti0090&color=green)
